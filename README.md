@@ -1,6 +1,19 @@
-SocketCluster Sample App
+SocketCluster KOA
 ======
 
-This is a sample SocketCluster app.
+Socket Cluster with KOA and Client
 
-"# socketcluster-koa" 
+# To Install
+```
+npm install socketcluster-koa
+```
+
+# Start Server
+```
+npm start
+```
+
+# Start Client
+```
+node client\client
+```
